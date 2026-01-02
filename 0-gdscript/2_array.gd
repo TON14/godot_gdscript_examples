@@ -2,7 +2,6 @@ extends Node
 
 # Use a single indentation level to distinguish continuation lines
 
-
 var typed_array: Array[int] = [
 	1,
 	2,
@@ -10,6 +9,6 @@ var typed_array: Array[int] = [
 ]
 
 func _ready() -> void:
-	print(typed_array[0])
 	#prints '1'
+	print(typed_array[0])
 	

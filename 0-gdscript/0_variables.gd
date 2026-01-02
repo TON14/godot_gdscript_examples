@@ -1,9 +1,9 @@
 # Typed Variables
 
-var typed_boolean: bool = true
-var typed_integer: int = 14
-var typed_float: float = 14.14
-var typed_string: String = "Hello"
+var typed_boolean: bool = true;
+var typed_integer: int = 14;
+var typed_float: float = 14.14;
+var typed_string: String = "Hello";
 
 var typed_vector_2i: Vector2i = Vector2i(1, 2)
 var typed_vector_2: Vector2 = Vector2(1.1, 2.2)
